@@ -48,7 +48,7 @@
   "readme": "https://github.com/catmonger/fvtt-module-popout#readme",
   "url": "https://github.com/catmonger/fvtt-module-popout",
   "manifest": "https://raw.githubusercontent.com/catmonger/fvtt-module-popout/refs/heads/master/module.json",
-  "download": "https://github.com/catmonger/fvtt-module-popout/archive/v2.24.zip",
+  "download": "https://github.com/catmonger/fvtt-module-popout/releases/download/v2.24/popout-v2.24.zip",
   "bugs": "https://github.com/catmonger/fvtt-module-popout/issues",
   "compatibility": {
     "minimum": "12",
